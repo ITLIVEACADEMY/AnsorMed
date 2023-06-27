@@ -1,0 +1,15 @@
+@import url(./fonts.css);
+
+:root {
+    --btn-color: #DE2E54; 
+    --primary-color: #0EB4C1;
+    --link-color: #222222;
+    --white: #fff;
+    --text-color: #444444;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
